@@ -1,8 +1,7 @@
 import numpy as np
-from numpy import random
 from matplotlib import pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
 import itertools
+from mpl_toolkits.mplot3d import Axes3D
 
 # データペア　===================================
 D = ([[1, 2], 4], [[-1, 1], 2], [[3, 0], 1], [[-2, -2], -1])
